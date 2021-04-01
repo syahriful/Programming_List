@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Programming List</string>
+    <string name="image_splashscreen">Image_Splashscreen</string>
+    <string name="programming_language_list">Programming Language List</string>
+    <string name="about">About</string>
+    <string name="languageimage">LanguageImage</string>
+    <string name="language">Language</string>
+    <string name="description">Description</string>
+    <string name="details">Details</string>
+    <string name="recommended_use_for">Recommended Use For :</string>
+    <string name="list">List</string>
+
+<!-- Details Part   -->
+    <string name="designed_by">Designed by</string>
+    <string name="current_stable_version">Current Stable Ver.</string>
+    <string name="first_release">First Release</string>
+    <string name="name_extension">Name Extension</string>
+    <string name="official_website">Official Website</string>
+</resources>
